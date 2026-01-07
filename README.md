@@ -1,7 +1,7 @@
 # arduino-speed-measurement-system
 Arduino-based speed measurement system that calculates the speed of a moving object using sensor-based time and distance analysis.
 
-# 🚗 Arduino Speed Measurement System
+# 🚗 Arduino Speed Measurement System "SPEED GUN"
 
 ## 📌 Overview
 The **Arduino Speed Measurement System** is an embedded systems project designed to calculate the speed of a moving object using **sensor-based detection** and **time–distance analysis**. The system measures the time taken by an object to travel a known distance between two points and computes its speed in real time.
