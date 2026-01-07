@@ -44,6 +44,11 @@ This project demonstrates key concepts of **embedded systems programming**, **se
 
 ---
 
+## ▶️ Demo Video
+[▶️ Watch Project Demo](https://youtube.com/your-video-link)
+
+---
+
 ## 💻 Software Requirements
 - Arduino IDE  
 - Embedded C / Arduino C++  
